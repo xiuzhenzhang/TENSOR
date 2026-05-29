@@ -144,10 +144,6 @@ events*
 # jupyter notebooks
 *.ipynb
 
-# hyperparameter set
-parameter_set/*
-new_parameter_set/*
-
 # pending projects
 src/fakenews/*
 src/missing/*
