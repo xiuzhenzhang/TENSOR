@@ -31,15 +31,11 @@ base = [
     "mistral-common"
 ]
 
-optional = [
-    # "wandb",
-]
-
 llm = [
     "openai",
     "vllm",
-    # "sglang[all]==0.5.9",
-    # "sgl-kernel",
+    "sglang[all]==0.5.9",
+    "sgl-kernel",
     "flashinfer-python",
 ]
 
