@@ -144,9 +144,6 @@ events*
 # jupyter notebooks
 *.ipynb
 
-# useful utilities
-useful_utilities/*
-
 # hyperparameter set
 parameter_set/*
 new_parameter_set/*
@@ -172,5 +169,5 @@ bundle.tar.gz
 bundle.tar.bz2
 bundle.tar.zst
 
-useful_utilities/backup
+useful_utilities/backups
 useful_utilities/backup1
