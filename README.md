@@ -2,7 +2,7 @@
 
 This is the codebase of Temporal-bEhavior-laNguage Signals for information Operation Recognition (TENSOR), an unsupervised anomaly detection approach of information operation users, accepted by ECML/PKDD 2026.
 
-## How to reproduce the results.
+## How to reproduce the results reported in our paper.
 
 All commands below assume they are run from the repository root unless otherwise noted.
 
