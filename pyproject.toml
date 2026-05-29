@@ -42,7 +42,7 @@ llm = [
 # Settings for uv
 [tool.uv]
 # Something we need during development while not when release.
-default-groups = ["base", "optional", "llm"]
+default-groups = ["base", "llm"]
 prerelease = "allow"
 required-environments = [
     "sys_platform == 'linux' and platform_machine == 'x86_64'",
