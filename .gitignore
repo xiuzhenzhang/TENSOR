@@ -118,7 +118,6 @@ raw_input/
 results/
 output/
 /model/
-config/
 wandb/
 deprecated/
 *.pkl

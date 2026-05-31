@@ -1,0 +1,5 @@
+text.usetex: true
+font.family: serif
+font.serif: Times
+mathtext.fontset: dejavusans
+text.latex.preamble: \usepackage{amsmath}
