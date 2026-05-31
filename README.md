@@ -28,7 +28,7 @@ The command for training and evaluating SAHP models
 model_name=sahp
 gpu="0"
 
-uv run ../../bulk_task_runner.py \
+uv run bulk_task_runner.py \
        --procedure_name TPP \
        --model $model_name \
        --job_name train_and_evaluate_on_io_datasets \
@@ -42,7 +42,7 @@ and SAHP with text models. Please note that you need to use `useful_utilities/io
 model_name=sahp_text
 gpu="0"
 
-uv run ../../bulk_task_runner.py \
+uv run bulk_task_runner.py \
        --procedure_name TPP \
        --model $model_name \
        --job_name train_and_evaluate_on_io_datasets \
